@@ -1,0 +1,11 @@
+.login__parent_child {
+    margin: 0 0 20px 0;
+    padding: 10px 20px 10px 20px;
+    background-color: #f1f1f1;
+    max-width: fit-content;
+    height: 44px;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 24px;
+    box-sizing: border-box;
+}

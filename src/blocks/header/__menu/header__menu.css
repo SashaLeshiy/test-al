@@ -1,0 +1,25 @@
+.header__menu {
+    font-size: 14px;
+    line-height: 24px;
+    color: rgba(17, 17, 17, 0.48);
+    margin: 0px;
+    padding-top: 7px;
+    text-decoration: none;
+    list-style-type: none;
+    display: flex;
+    opacity: 1;
+    padding-inline-start: 0;
+    padding-right: calc(50% - 82px);
+}
+
+@media screen and (max-width: 500px) {
+    .header__menu {
+        display: block;
+    }
+  }
+
+  @media screen and (max-width: 320px) {
+    .header__menu {
+        padding-top: 0;
+    }
+  }  

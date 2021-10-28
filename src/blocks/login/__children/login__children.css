@@ -1,0 +1,4 @@
+.login__children {
+    display: flex;
+    flex-direction: column;
+}
