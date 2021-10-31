@@ -1,5 +1,4 @@
 import React from 'react';
-import { useSelector } from "react-redux";
 import logo from '../../src/images/Logo.png';
 import Navbar from './Navbar.js';
 
